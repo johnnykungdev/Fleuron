@@ -12,7 +12,7 @@ header {
 .wine1 {
     z-index: 0;
     height: 100%;
-    background-image: url('./img/wine1.jpg');
+    background-image: url('../img/wine1.jpg');
     background-size: 100% 100%;
 }
 
